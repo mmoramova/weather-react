@@ -1,6 +1,4 @@
 import React from "react";
-
-import Bootstrap from "bootstrap";
 import Form from "./Form";
 import Overview from "./Overview";
 import Prediction from "./Prediction";
